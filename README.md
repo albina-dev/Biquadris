@@ -1,6 +1,4 @@
-# Biquadris
-
-## Description
+# Description
 
 Biquadris is the two-player version of the video game Tetris.
 
@@ -12,7 +10,7 @@ a block onto the board (unless this triggers a special action; see below).
 
 ![](https://allenwu.ca/img/Biquadris%20(2).PNG.jpg)
 
-## Development
+# Development
 
 The game of Biquadris was built with the intention of low coupling and high cohesion, as well as resilience to change and addition of new features.
 
